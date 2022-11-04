@@ -16,15 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ### I'm a Full-Stack Developer, but interested in Web-development & UX/UI designing 😌✌🏻
 - 🔭 I'm currently working on a bachelor's degree in Software Engineering at University
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play guitar/piano/drum
 
 <br/>
+<br/>
 
 Here are some badges that I've earned 😅
+
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 
 <br/>
