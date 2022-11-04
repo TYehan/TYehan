@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey everyone, I'm Tharindu Yehan 👋  
+
 
 <!--
 **TYehan/TYehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm currently working on a bachelor's degree in Software Engineering at University
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I love to play guitar/piano/drum
+
+[![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
