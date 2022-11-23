@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/tharinduyehanbandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" height="18" width="50" /></a>
-<a href="https://instagram.com/t_yehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_yehan" height="15" width="50" /></a>
-<a href="https://www.hackerrank.com/tharindu_yehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" height="30" width="50" /></a>
-<a href="https://discord.gg/#7299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" height="20" width="50" /></a>
+<a href="https://linkedin.com/in/tharinduyehanbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" height="18" width="50" /></a>
+<a href="https://instagram.com/t_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_yehan" height="15" width="50" /></a>
+<a href="https://www.hackerrank.com/tharindu_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" height="30" width="50" /></a>
+<a href="https://discord.gg/#7299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" height="20" width="50" /></a>
 </p>
 
 <br/>  
