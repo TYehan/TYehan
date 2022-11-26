@@ -2,7 +2,8 @@
 
 <!--
 **TYehan/TYehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### I'm a Full-Stack Developer, but interested in Front-end n UI/UX designing 😌✌🏻
+</br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,8 +18,6 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### I'm a Full-Stack Developer, but interested in Front-end n UI/UX designing 😌✌🏻
-</br>
 
 - 🔭 I'm currently working on a bachelor's degree in Software Engineering at University
 - 🌱 I’m currently learning everything 😂
