@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <p align="left">
+&nbsp; &nbsp;
 <a href="https://linkedin.com/in/tharinduyehanbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" width="2%" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/t_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_yehan" width="2%" /></a>
