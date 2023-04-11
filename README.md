@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 
----
+
 <!-- Icons -->
 <p align="left"> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="30"/> </a> 
@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 -->
 </p>  
 
----
 
 ### Connect with me:
 <p align="left">
