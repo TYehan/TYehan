@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play guitar/piano/drum
 
 <br/><br/><br/>
-
+---
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
-
+---
 <!-- Icons -->
 <p align="left"> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="30"/> </a> 
@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 -->
 </p>  
 <br/><br/>
+---
 
 ### Connect with me:
 <p align="left">
@@ -62,11 +63,10 @@ Here are some ideas to get you started:
 
 <br/>  
   
-### Support:
-<p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p>
+<!-- ### Support:
+<p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p> -->
 
-<br/>
-<br/>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
