@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play guitar/piano/drum
 
-<br/><br/><br/>
+<br/><br/>
 ---
+<br/><br/>
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 ---
 <!-- Icons -->
@@ -51,6 +52,7 @@ Here are some ideas to get you started:
 -->
 </p>  
 <br/><br/>
+
 ---
 
 ### Connect with me:
