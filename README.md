@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 <br/><br/>
 ---
 <br/>
+
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
+
 ---
 <!-- Icons -->
 <p align="left"> 
