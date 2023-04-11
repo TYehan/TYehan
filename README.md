@@ -52,11 +52,12 @@ Here are some ideas to get you started:
 -->
 </p>  
 
-<br/><br/>
+<br/><br/>  
 
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/tharinduyehanbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" width="2%" /></a>
+&nbsp
 <a href="https://instagram.com/t_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_yehan" width="2%" /></a>
 <a href="https://www.hackerrank.com/tharindu_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" width="4%" /></a>
 <a href="https://discord.gg/#7299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" width="3%" /></a>
