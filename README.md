@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 </br>
 
-- 🔭 I'm currently working on a Bachelor's Degree in Software Engineering
+- 🔭 Software Engineering undergraduate on a mission
 - 🌱 I’m currently learning everything 😂
-- 👯 I’m looking to collaborate with other content creators
+- 🫱🏻‍🫲🏻 Let's collaborate! 
+- 🤜🏻🤛🏻 Together we're stronger!
 - ⚡ Fun fact: I love to play guitar/piano/drum
 
 <br/><br/>
