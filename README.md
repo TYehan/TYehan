@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img align="right" alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif"> -->
-<p align="right">
-<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" />
-</a>
-</p>
 
 </br>
 
@@ -29,6 +24,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 😌
 - 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
 - ⚡ Coding & Music, it's all about balance ⚖️🎹🎸
+
+<p align="right">
+<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" />
+</a>
+</p>
 
 <br/><br/>
 ---
