@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
     </ul>
   </div>
-  <div>
+  <div class="flex-image">
     <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
   </div>
 </div>
