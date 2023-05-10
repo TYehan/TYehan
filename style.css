@@ -1,0 +1,7 @@
+.flex-container {
+  display: flex;
+}
+
+.flex-container img {
+  margin-right: 20px;
+}
