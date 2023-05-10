@@ -16,29 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🔭 Software Engineering undergraduate on a mission</li>
-      <li>🌱 I’m currently learning everything 😌</li>
-      <li>🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!</li>
-      <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif" style="margin-left: 20px;">
-  </div>
-</div>
+<p align="center">
+  <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
+</p>
 
-<style>
-  @media only screen and (min-width: 768px) {
-    div {
-      flex-direction: row;
-      justify-content: space-between;
-    }
-  }
-</style>
+<br/>
 
+- 🔭 Software Engineering undergraduate on a mission
+- 🌱 I’m currently learning everything 😌
+- 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
+- ⚡ Coding & Music, it's all about balance ⚖️🎹🎸
 
 <br/><br/>
 ---
