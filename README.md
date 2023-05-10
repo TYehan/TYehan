@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div class="flex-container">
+  <div>
     <ul>
       <li>🔭 Software Engineering undergraduate on a mission</li>
       <li>🌱 I’m currently learning everything 😌</li>
@@ -25,10 +25,12 @@ Here are some ideas to get you started:
       <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
     </ul>
   </div>
-  <div style="flex: 1;">
-    <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif" style="margin-left: 20px;">
+  <div>
+    <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
   </div>
 </div>
+
+<link rel="stylesheet" type="text/css" href="styles.css">
 
 <br/><br/>
 ---
