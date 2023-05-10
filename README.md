@@ -16,8 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <div style="flex: 1;">
+<p align="center">
+  <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
+</p>
+
+<p align="center">
+  <b>About Me:</b>
+</p>
+
+<div class="flex-container">
+  <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
+  <div>
     <ul>
       <li>🔭 Software Engineering undergraduate on a mission</li>
       <li>🌱 I’m currently learning everything 😌</li>
@@ -25,10 +34,10 @@ Here are some ideas to get you started:
       <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
     </ul>
   </div>
-  <div style="flex: 1;">
-    <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
-  </div>
 </div>
+
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 
 <br/><br/>
 ---
