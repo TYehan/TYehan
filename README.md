@@ -93,4 +93,4 @@ Here are some ideas to get you started:
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
 -->
-
+<img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
