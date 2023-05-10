@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<div style="display: flex; align-items: center;">
   <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
-</p>
-
-<br/>
-
-- 🔭 Software Engineering undergraduate on a mission
-- 🌱 I’m currently learning everything 😌
-- 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
-- ⚡ Coding & Music, it's all about balance ⚖️🎹🎸
+  <div>
+    <ul>
+      <li>🔭 Software Engineering undergraduate on a mission</li>
+      <li>🌱 I’m currently learning everything 😌</li>
+      <li>🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!</li>
+      <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
+    </ul>
+  </div>
+</div>
 
 <br/><br/>
 ---
