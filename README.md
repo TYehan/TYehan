@@ -62,6 +62,12 @@ Here are some ideas to get you started:
 -->
 </p>  
 
+<p>
+<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
+	<img width="30%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" />
+</a>
+</p>
+
 <br/><br/>  
 
 ### Connect with me:
@@ -74,12 +80,6 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/tharindu_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" width="4%" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://discord.gg/#7299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" width="3%" /></a>
-</p>
-
-<p align="right">
-<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
-	<img width="30%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" />
-</a>
 </p>
 
 <br/>  
