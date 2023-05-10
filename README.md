@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: center;">
-  <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
-  <div>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <div style="flex: 1;">
     <ul>
       <li>🔭 Software Engineering undergraduate on a mission</li>
       <li>🌱 I’m currently learning everything 😌</li>
       <li>🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!</li>
       <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
     </ul>
+  </div>
+  <div style="flex: 1;">
+    <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
   </div>
 </div>
 
@@ -33,7 +35,6 @@ Here are some ideas to get you started:
 <br/>
 
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
-
 
 <!-- Icons -->
 <p align="left"> 
