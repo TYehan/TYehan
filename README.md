@@ -62,13 +62,15 @@ Here are some ideas to get you started:
 -->
 </p>  
 
+<br/>  
+
 <p>
 <a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
 	<img width="30%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" />
 </a>
 </p>
 
-<br/><br/>  
+<br/>
 
 ### Connect with me:
 <p align="left">
