@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="flex-container">
-  <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
-  <div>
+<div style="display: flex;">
+  <div style="flex: 1;">
     <ul>
       <li>🔭 Software Engineering undergraduate on a mission</li>
       <li>🌱 I’m currently learning everything 😌</li>
@@ -26,10 +25,10 @@ Here are some ideas to get you started:
       <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
     </ul>
   </div>
+  <div style="flex: 1;">
+    <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif" style="margin-left: 20px;">
+  </div>
 </div>
-
-<link rel="stylesheet" type="text/css" href="styles.css">
-
 
 <br/><br/>
 ---
@@ -99,3 +98,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
 -->
 <img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
+
+
