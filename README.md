@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img align="right" alt="Coding" width="30%" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif"></br>
+  <img align="right" alt="Coding" width="30%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></br>
 	
 - 🔭 Software Engineering undergraduate on a mission
 - 🌱 I’m currently learning everything 😌
