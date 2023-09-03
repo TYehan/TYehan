@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ <li>🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!</li>
+ <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
+ <li> I’m currently learning everything </li>
 -->
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
   <div style="flex: 1;">
-    <ul>
-      <li>🔭 Software Engineering undergraduate on a mission</li>
-      <li>🌱 I’m currently learning everything 😌</li>
-      <li>🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!</li>
-      <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
-    </ul>
+	  
+- 🔭 Software Engineering undergraduate on a mission ✨
+  
   </div>
   <div style="flex: 1;">
-    <img alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif">
+<!--     <img align="right" alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif"> -->
   </div>
 </div>
 
