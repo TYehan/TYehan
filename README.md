@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
  <li> I’m currently learning everything </li>
 -->
-
+<!--
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
   <div style="flex: 1;">
 	  
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
   </div>
   <div style="flex: 1;">
 <!--     <img align="right" alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif"> -->
-  </div>
-</div>
+<!-- </div> -->
 
 <br/><br/>
 ---
