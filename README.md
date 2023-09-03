@@ -28,11 +28,11 @@ Here are some ideas to get you started:
   <div style="flex: 1;">
 <!--     <img align="right" alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif"> -->
 <!-- </div> -->
-
+<!--
 <br/><br/>
 ---
 <br/>
-
+-->
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 
 <!-- Icons -->
