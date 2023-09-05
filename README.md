@@ -14,25 +14,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- <li>🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!</li>
- <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
- <li> I’m currently learning everything </li>
+ 
+ - 🌱 I’m currently learning everything 😌
+- 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
+- ⚡ Coding & Music, it's all about balance ⚖️🎹🎸
 -->
 
 <p>
-  <img align="right" alt="Coding" width="30%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></br>
-	
-- 🔭 Software Engineering undergraduate on a mission
-- 🌱 I’m currently learning everything 😌
-- 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
-- ⚡ Coding & Music, it's all about balance ⚖️🎹🎸
+<!--   <img align="right" alt="Coding" width="30%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></br> -->
+  <img align="right" alt="Coding" width="20%" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
+  </br>
+ 
+ 🔥 Software Engineering <be>
+<pre> 🔭 undergraduate on a mission ✨ </pre>
+                        
 </p>
 
 <br/><br/>
 
----
-<br/>
--->
+
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 
 <!-- Icons -->
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <!-- ### Support:
 <p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p> -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
