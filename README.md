@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ <li>🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!</li>
+ <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
+ <li> I’m currently learning everything </li>
 -->
 
 <p>
@@ -24,11 +27,12 @@ Here are some ideas to get you started:
 - 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
 - ⚡ Coding & Music, it's all about balance ⚖️🎹🎸
 </p>
+
 <br/><br/>
 
 ---
 <br/>
-
+-->
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 
 <!-- Icons -->
@@ -89,7 +93,7 @@ Here are some ideas to get you started:
 <!-- ### Support:
 <p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p> -->
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<!-- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
