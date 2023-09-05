@@ -18,18 +18,18 @@ Here are some ideas to get you started:
  <li>⚡ Coding & Music, it's all about balance ⚖️🎹🎸</li>
  <li> I’m currently learning everything </li>
 -->
-<!--
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <div style="flex: 1;">
-	  
-- 🔭 Software Engineering undergraduate on a mission ✨
-  
-  </div>
-  <div style="flex: 1;">
-<!--     <img align="right" alt="Coding" width="250" src="https://github.com/TYehan/Hosted-Images/blob/main/workOnPc.gif"> -->
-<!-- </div> -->
-<!--
+
+<p>
+  <img align="right" alt="Coding" width="30%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></br>
+	
+- 🔭 Software Engineering undergraduate on a mission
+- 🌱 I’m currently learning everything 😌
+- 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
+- ⚡ Coding & Music, it's all about balance ⚖️🎹🎸
+</p>
+
 <br/><br/>
+
 ---
 <br/>
 -->
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="3%"/> </a> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a target="_blank" rel="noreferrer"> <img src="https://github.com/TYehan/Hosted-Images/blob/main/readMeSvg/cplusplus-original.svg" alt="cplusplus" width="3%"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="3%"/> </a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="4%"/> </a>
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -66,7 +66,15 @@ Here are some ideas to get you started:
 -->
 </p>  
 
-<br/><br/>  
+<br/>  
+
+<p>
+<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
+	<img width="30%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" />
+</a>
+</p>
+
+<br/>
 
 ### Connect with me:
 <p align="left">
@@ -80,20 +88,16 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/#7299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" width="3%" /></a>
 </p>
 
-<p align="right">
-<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" />
-</a>
-</p>
-
 <br/>  
   
 <!-- ### Support:
 <p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p> -->
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<!-- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
 -->
+<img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" target ="https://tyehan.github.io/Tharindu-Yehan/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
+
 
