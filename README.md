@@ -30,11 +30,6 @@ Here are some ideas to get you started:
       Undergraduate on a mission  ✨ </pre>
                         
 </p>
-<p align="center">
-<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
-	 <img width="10%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" /> 
-</a>
-</p>
 
 <img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" target ="https://tyehan.github.io/Tharindu-Yehan/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
 
@@ -88,7 +83,13 @@ Here are some ideas to get you started:
 </p>
 
 <br/>  
-  
+<!--
+<p align="center">
+<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
+	 <img width="10%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" /> 
+</a>
+</p>
+-->
 <!-- ### Support:
 <p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p> -->
 
