@@ -31,8 +31,7 @@ Here are some ideas to get you started:
                         
 </p>
 
-<br/><br/>
-
+<img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" target ="https://tyehan.github.io/Tharindu-Yehan/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
 
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 
@@ -69,12 +68,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<p>
-<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
-	<img width="30%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" />
-</a>
-</p>
-
 <br/>
 
 ### Connect with me:
@@ -90,7 +83,13 @@ Here are some ideas to get you started:
 </p>
 
 <br/>  
-  
+<!--
+<p align="center">
+<a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
+	 <img width="10%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645111bedcaa61668fb0" alt="Appwrite Cloud Card" /> 
+</a>
+</p>
+-->
 <!-- ### Support:
 <p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p> -->
 
@@ -99,6 +98,6 @@ Here are some ideas to get you started:
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
 -->
-<img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" target ="https://tyehan.github.io/Tharindu-Yehan/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
+
 
 
