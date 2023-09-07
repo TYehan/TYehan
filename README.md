@@ -23,20 +23,30 @@ Here are some ideas to get you started:
 <p>
 <!--   <img align="right" alt="Coding" width="30%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></br> -->
   <img align="right" alt="Coding" width="20%" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
-  </br>
 
- <pre>
- 🔥 Software Engineering 
-      Undergraduate on a mission  ✨ </pre>
-                        
+<pre>
+🔥  Software Engineering                          
+       Undergraduate on a mission  ✨                 
+</pre>
+      
+#### Connect with me: 
+<p align="left">
+&nbsp;
+<a href="https://linkedin.com/in/tharinduyehanbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" width="2%" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://instagram.com/t_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_yehan" width="2%" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.hackerrank.com/tharindu_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" width="4%" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://discord.gg/#7299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" width="3%" /></a>
+</p>                             
 </p>
-
 <img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" target ="https://tyehan.github.io/Tharindu-Yehan/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
 
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 
 <!-- Icons -->
-<p align="left"> 
+<p align="right"> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="4%"/> </a> 
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="4%"/> </a> 
@@ -70,17 +80,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Connect with me:
-<p align="left">
-&nbsp;
-<a href="https://linkedin.com/in/tharinduyehanbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" width="2%" /></a>
-&nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://instagram.com/t_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_yehan" width="2%" /></a>
-&nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.hackerrank.com/tharindu_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" width="4%" /></a>
-&nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://discord.gg/#7299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" width="3%" /></a>
-</p>
+
 
 <br/>  
 <!--
