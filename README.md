@@ -83,13 +83,13 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">Featured Repositories</h2>
-<p align="center">
+#### Featured Repositories
+<p align="left">
   <a href="https://github.com/TYehan/WordBreak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=WordBreak&theme=radical" alt="Repo1">
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=WordBreak&theme=default" alt="WordBreak">
+  </a><br>
   <a href="https://github.com/TYehan/KDU-Lab-Sheet-Solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=KDU-Lab-Sheet-Solutions&theme=radical" alt="Repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=KDU-Lab-Sheet-Solutions&theme=vue" alt="KDU-Lab-Sheet-Solutions">
   </a>
 </p>
 
