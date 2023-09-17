@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-<!--   <img align="right" alt="Coding" width="30%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></br> -->
-  <img align="right" alt="Coding" width="20%" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
-
+<img align="right" alt="hackerCAT" width="20%" src="https://github.com/TYehan/TYehan/assets/85949077/d87baaad-a6bf-4b9b-943a-df37c2bda545">
 <pre>
 🔥  Software Engineering                          
        Undergraduate on a mission  ✨                 
