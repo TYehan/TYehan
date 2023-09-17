@@ -95,7 +95,12 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<p color="blue">WordBreak</p>
+//write the word "WordBreak" in the text box and click the button to see the magic
+
+<p align="center">
+  <a href="https://github.com/TYehan/WordBreak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYehan&layout=compact&theme=vue" alt="Top Langs">
+
 [![GitHub stars](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak)
 
 [![GitHub stars](https://img.shields.io/github/stars/TYehan/KDU-Lab-Sheet-Solutions.svg?style=social)](https://github.com/TYehan/KDU-Lab-Sheet-Solutions)	
