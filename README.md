@@ -84,9 +84,6 @@ Here are some ideas to get you started:
 ---
 
 <p>
-
-[![Click on Me](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak)
-<br>
   <a href="https://github.com/TYehan/WordBreak">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=WordBreak&theme=default" alt="WordBreak"> 
   </a>
