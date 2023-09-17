@@ -95,7 +95,9 @@ Here are some ideas to get you started:
 
 <br/>  
 
-[![GitHub stars](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak)	
+<p color="blue">WordBreak</p>
+[![GitHub stars](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak)
+
 [![GitHub stars](https://img.shields.io/github/stars/TYehan/KDU-Lab-Sheet-Solutions.svg?style=social)](https://github.com/TYehan/KDU-Lab-Sheet-Solutions)	
 
 <!--
@@ -113,6 +115,4 @@ Here are some ideas to get you started:
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
 -->
-
-
 
