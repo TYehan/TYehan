@@ -83,17 +83,21 @@ Here are some ideas to get you started:
 
 ---
 
-#### Featured Repositories
 <p align="left">
   <a href="https://github.com/TYehan/WordBreak">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=WordBreak&theme=default" alt="WordBreak">
-  </a><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=WordBreak&theme=default" alt="WordBreak"> 
+  </a>
+<br>
   <a href="https://github.com/TYehan/KDU-Lab-Sheet-Solutions">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=KDU-Lab-Sheet-Solutions&theme=vue" alt="KDU-Lab-Sheet-Solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=KDU-Lab-Sheet-Solutions&theme=vue" alt="KDU-Lab-Sheet-Solutions">
   </a>
 </p>
 
 <br/>  
+
+[![GitHub stars](https://img.shields.io/github/stars/TYehan/WordBreak.svg?style=social)](https://github.com/TYehan/WordBreak)	
+[![GitHub stars](https://img.shields.io/github/stars/TYehan/KDU-Lab-Sheet-Solutions.svg?style=social)](https://github.com/TYehan/KDU-Lab-Sheet-Solutions)	
+
 <!--
 <p align="center">
 <a href="https://cloud.appwrite.io/card/645111bedcaa61668fb0">
