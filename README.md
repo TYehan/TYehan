@@ -80,16 +80,14 @@ Here are some ideas to get you started:
 <br/>
 
 ---
-
-<p>
+<!--
   <a href="https://github.com/TYehan/WordBreak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=WordBreak&theme=default" alt="WordBreak"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=WordBreak&theme=default" alt="WordBreak"> 
   </a>
 <br>
 <!--   <a href="https://github.com/TYehan/KDU-Lab-Sheet-Solutions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=KDU-Lab-Sheet-Solutions&theme=vue" alt="KDU-Lab-Sheet-Solutions">
   </a> -->
-</p>
 
 <br/>
 
