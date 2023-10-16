@@ -1,4 +1,4 @@
-## <a href="https://tyehan.github.io/Tharindu-Yehan/">Hey everyone, I'm Tharindu Yehan</a>  <img alt="👋🏻" width="30" src="https://media.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif">
+## <a href="https://tyehan.github.io/Tharindu-Yehan/" target="_blank">Hey everyone, I'm Tharindu Yehan</a>  <img alt="👋🏻" width="30" src="https://media.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif">
 
 <!--
 **TYehan/TYehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
        Undergraduate on a mission  ✨                 
 </pre>
       
-#### Connect with me: 
+#### <a href="https://tyehan.github.io/Tharindu-Yehan/" target="_blank">Connect with me:</a>
 <p align="left">
 &nbsp;
 <a href="https://linkedin.com/in/tharinduyehanbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharinduyehanbandara" width="2%" /></a>
@@ -92,8 +92,6 @@ Here are some ideas to get you started:
 -->
 <!-- ### Support:
 <p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p> -->
-
->>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
