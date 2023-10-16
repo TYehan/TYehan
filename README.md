@@ -1,4 +1,4 @@
-## Hey everyone, I'm Tharindu Yehan  <img alt="👋🏻" width="30" src="https://media.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif">
+## <a href="https://tyehan.github.io/Tharindu-Yehan/">Hey everyone, I'm Tharindu Yehan</a>  <img alt="👋🏻" width="30" src="https://media.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif">
 
 <!--
 **TYehan/TYehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,14 +72,8 @@ Here are some ideas to get you started:
 <!-- 
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
--->
 </p>  
 
-<br/>  
-
-<br/>
-
----
 <!--
   <a href="https://github.com/TYehan/WordBreak">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=WordBreak&theme=default" alt="WordBreak"> 
@@ -88,8 +82,6 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/TYehan/KDU-Lab-Sheet-Solutions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TYehan&repo=KDU-Lab-Sheet-Solutions&theme=vue" alt="KDU-Lab-Sheet-Solutions">
   </a> -->
-
-<br/>
 
 <!--
 <p align="center">
@@ -101,7 +93,7 @@ Here are some ideas to get you started:
 <!-- ### Support:
 <p><a href="https://www.buymeacoffee.com/tyehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tyehan" /></a></p> -->
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyehan&show_icons=true&theme=dark&title_color=0081ff&locale=en" alt="tyehan" /></p>
