@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.hackerrank.com/tharindu_yehan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tharindu_yehan" width="4%" /></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://dev.to/tyehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/973acde1-4b39-444e-b159-b10de546d118" alt="tharindu_yehan" width="4%" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://discord.gg/#7299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7299" width="3%" /></a>
+
 </p>                             
 </p>
 <img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" target ="https://tyehan.github.io/Tharindu-Yehan/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
