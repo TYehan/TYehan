@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.hackerrank.com/tharindu_yehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/ed129271-15ff-4960-8489-483038c6dd4c" alt="⏳" width="3.5%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://app.hackthebox.com" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/c159dbb2-32da-4039-83b2-b4d2f43fc543" alt="⏳" width="3.4%"></a>
+<a href="https://app.hackthebox.com" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/715d1e16-28ff-412b-bf87-db092ea8789c" alt="⏳" width="3.4%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/t_yehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/de77fae4-3431-4be0-8b44-170c44b6d3f9" alt="⏳" width="3%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
