@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/t_yehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/de77fae4-3431-4be0-8b44-170c44b6d3f9" alt="⏳" width="3%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://developers.google.com/profile/u/tharinduyehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/bf28db39-df30-43e1-84dd-4897962866ba" alt="⏳" width="3.5%"></a>
+<a href="https://g.dev/tharinduyehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/bf28db39-df30-43e1-84dd-4897962866ba" alt="⏳" width="3.5%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;	
 <a href="https://dev.to/tyehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/973acde1-4b39-444e-b159-b10de546d118" alt="⏳" width="3.5%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
