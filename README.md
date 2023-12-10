@@ -1,4 +1,4 @@
-## <a href="https://tyehan.github.io/" target="_blank">Hey everyone, I'm Tharindu Yehan</a>  <img alt=" " width="30" src="https://media.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif"><img alt=" " width="45" src="https://github.com/TYehan/TYehan/assets/85949077/aa2b50b2-97ad-4801-aeb5-0f4c1badff55">👍
+## <a href="https://tyehan.github.io/" target="_blank">Hey everyone, I'm Tharindu Yehan</a>  <img alt=" " width="30" src="https://media.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif"><img alt=" " width="45" src="https://github.com/TYehan/TYehan/assets/85949077/aa2b50b2-97ad-4801-aeb5-0f4c1badff55">
 
 <!--
 **TYehan/TYehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
