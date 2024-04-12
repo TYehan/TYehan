@@ -1,4 +1,4 @@
-## <a href="https://tyehan.github.io/" target="_blank">Yo, fellow coder! Ready to hack some code? </a> 
+## <a href="https://tyehan.github.io/" target="_blank">Yo developer, ready to exploit some code over coffee? </a> 
 
 <!-- src="https://github.com/TYehan/TYehan/assets/85949077/aa2b50b2-97ad-4801-aeb5-0f4c1badff55" -->
 <!--
