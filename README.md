@@ -2,30 +2,16 @@
 
 <!-- src="https://github.com/TYehan/TYehan/assets/85949077/aa2b50b2-97ad-4801-aeb5-0f4c1badff55" -->
 <!--
-**TYehan/TYehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### I'm a Full-Stack Developer, but interested in Front-end n UI/UX designing 😌✌🏻
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 
- - 🌱 I’m currently learning everything 😌
+ - 🌱 Learning everything not just coding 💀
 - 🫱🏻‍🫲🏻 Let's collaborate! Together we're stronger!
-- ⚡ Coding & Music, it's all about balance ⚖️🎹🎸
+- ⚡ Coding & Music, it's all about balance 🎹🎸
 -->
 
 <p>
-<img align="right" alt=" Offensive hacker " width="20%" src="https://github.com/TYehan/TYehan/assets/85949077/d87baaad-a6bf-4b9b-943a-df37c2bda545">
+<img align="right" alt=" Tharindu Yehan is an offensive hacker also know as the WhiteGhost " width="20%" src="https://github.com/TYehan/TYehan/assets/85949077/d87baaad-a6bf-4b9b-943a-df37c2bda545">
 <pre>
 🔥  Software Engineering                          
-       Undergraduate on a mission  ✨                 
+       Undergraduate on a mission             
 </pre>
 
 #### <a href="https://tyehan.github.io/" target="_blank">Connect with me:</a>
