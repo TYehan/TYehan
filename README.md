@@ -1,6 +1,6 @@
-## <a href="https://tyehan.github.io/" target="_blank">Hey everyone </a> <img alt=" " width="30" src="https://github.com/TYehan/TYehan/assets/85949077/aa2b50b2-97ad-4801-aeb5-0f4c1badff55">
+## <a href="https://tyehan.github.io/" target="_blank">Yo, fellow coder! Ready to hack some code? </a> 
 
-<!--<img alt=" " width="30" src="https://media.tenor.com/AUHgwWxTw14AAAAj/dm4uz3-foekoe.gif">
+<!-- src="https://github.com/TYehan/TYehan/assets/85949077/aa2b50b2-97ad-4801-aeb5-0f4c1badff55" -->
 <!--
 **TYehan/TYehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### I'm a Full-Stack Developer, but interested in Front-end n UI/UX designing 😌✌🏻
