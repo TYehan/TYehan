@@ -8,7 +8,8 @@
 -->
 
 <p>
-<img align="right" alt=" Tharindu Yehan is an offensive hacker also know as the WhiteGhost " width="20%" src="https://github.com/TYehan/TYehan/assets/85949077/d87baaad-a6bf-4b9b-943a-df37c2bda545">
+<img align="right" alt=" Tharindu Yehan is an offensive hacker also know as the WhiteGhost "
+ width="20%" src="https://github.com/TYehan/TYehan/assets/85949077/d87baaad-a6bf-4b9b-943a-df37c2bda545">
 <pre>
 🔥  Software Engineering                          
        Undergraduate on a mission             
@@ -30,9 +31,12 @@
 <a href="https://dev.to/tyehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/973acde1-4b39-444e-b159-b10de546d118" alt="⏳" width="3.5%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://discord.gg/#7299" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/64fb45f6-5872-453c-8154-3e046593120f" alt="⏳" width="2.7%"></a>
-
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://medium.com/@TYehan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/9271e343-76f1-4a87-a595-b5c6bb1086eb" alt="⏳" width="2.7%"></a>
+	
 </p>                             
 </p>
+
 <img width=100% title="#Tharindu Yehan" alt="#Tharindu Yehan" target ="https://tyehan.github.io/Tharindu-Yehan/" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,6,11,20&height=100&section=footer&text=Tharindu%20Yehan&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=85"/>
 
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
