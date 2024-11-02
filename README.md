@@ -46,6 +46,25 @@
 <!--
 [![TYehan's GitHub | Stats](https://stats.quira.sh/TYehan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TYehan)
 -->
+
+<!--
+Tharindu Yehan Wanniya Bandara is a passionate software engineer and researcher with a knack for innovation and problem-solving. With a strong foundation in data analysis and automation, Tharindu has made significant contributions to the tech community through his work on automated messaging tools and advanced phishing tools. His projects, such as the Automatic WhatsApp Bulk Message Sender, showcase his ability to streamline communication processes and enhance productivity.
+
+Tharindu's research on continuous integration and verification in software development has been pivotal in improving software quality and efficiency. He has written many articles to inspire and inform people, offering insights into software development and data analysis. His dedication to optimizing workflows and automating repetitive tasks has earned him recognition among his peers and a growing following on Medium.
+
+In addition to his research and publications, Tharindu has created impactful websites that demonstrate his versatility as a developer. A notable example is the IEEE Student Branch's website at General Sir John Kotelawa Defence University, Sri Lanka. This website, officially launched at the IEEE Annual General Meeting on 07th May 2024, stands as a testament to his dedication and skill. His portfolio includes several other websites designed to improve user experience, drive engagement, and deliver seamless functionality. Each project reflects his commitment to excellence and innovation in web development.
+
+Tharindu has also developed a comprehensive Student Management System using ReactJS, NodeJS, SpringBoot, and Postgres, incorporating API-based communication. His expertise extends to mobile applications, with projects in both Flutter and Kotlin, and even a Java-based application for school management systems involving whiteboards, desks, chairs, and new equipment management.
+
+Moreover, Tharindu has written numerous articles, ranging from practical tech tips like "Boost Your Windows 11/10 Performance: Free & Simple Tips for Speeding Up Your PC" and "How to Download WhatsApp Status Without Any App", to more complex topics such as "How to Enable Local Group Policy Editor in Windows 11 - powershell". His articles are designed to inspire and provide valuable insights to readers, reinforcing his reputation as a thought leader in the tech community.
+
+Known in the cyber world as the "WhiteGhost", Tharindu is also an offensive ethical hacker. His expertise in cybersecurity and ethical hacking has made him a respected figure in the field, known for his ability to identify and mitigate security vulnerabilities.
+
+Adding to his repertoire, Tharindu has contributed significantly to the intersection of machine learning and network security, with a focus on ethical hacking in local area networks (LANs). His innovative approaches in using machine learning to enhance security protocols and detect vulnerabilities in LAN environments have established him as a forward-thinking expert in this specialized area.
+
+With a commitment to innovation and excellence, Tharindu continues to push the boundaries of technology, making a lasting impact on the industry. His work not only demonstrates his technical prowess but also his ability to think creatively and solve real-world problems.
+-->
+
 <!-- Icons -->
 <!--
 <p align="right"> 
