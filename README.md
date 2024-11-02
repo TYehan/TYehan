@@ -43,8 +43,9 @@
 [![@tyehan's Holopin board](https://holopin.me/tyehan)](https://holopin.io/@tyehan)
 
 <!-- Quira widget -->
+<!--
 [![TYehan's GitHub | Stats](https://stats.quira.sh/TYehan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TYehan)
-
+-->
 <!-- Icons -->
 <!--
 <p align="right"> 
