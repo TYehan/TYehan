@@ -11,7 +11,7 @@
 <img align="right" alt=" Tharindu Yehan is an offensive hacker also know as the WhiteGhost "
  width="20%" src="https://github.com/TYehan/TYehan/assets/85949077/d87baaad-a6bf-4b9b-943a-df37c2bda545">
 <pre>
-🔥  Security Software Engineer on a mission             
+🔥  Software Engineer focused on breaking, securing, and hardening application logic             
 </pre>
 
 #### <a href="https://tyehan.github.io/" target="_blank">Connect with me:</a>
